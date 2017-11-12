@@ -16,10 +16,3 @@ $(document).ready(function(){
   }
 });
 
-/*
-
-https://codepen.io/anon/pen/ZaePoW
-
-https://codepen.io/anon/pen/MOpREv
-
-*/
